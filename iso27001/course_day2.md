@@ -1,4 +1,7 @@
-ISO 27001 Certification Course: Day 2 Notes
+# ISO 27001 Certification Course: Day 2 Notes
+
+---
+
 
 ## The Three Pillars of ISO Standards
 
